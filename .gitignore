@@ -1,0 +1,19 @@
+# 平台相关隐藏文件
+.DS_Store
+
+# gtags相关文件
+GPATH
+GRTAGS
+GTAGS
+ctags
+tags
+
+# 工程临时文件
+.intoiotenvs
+size
+
+src/user/inc
+src/user/src
+src/sdkconfig.h
+
+
