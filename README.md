@@ -21,7 +21,7 @@
 ## 下载工程
 
 ```
-git clone --recursive https://github.com/IntoYun/intoyun-iotkit-demo.git
+git clone --recursive https://github.com/IntoYun/desktop-intoyun-demo.git
 ```
 
 ## 项目实例开发
