@@ -10,7 +10,8 @@
 ```
 +-- lib                       : 库目录
 +-- src                       : 源文件目录
-    +-- intoyun-iotkit-sdk    : 第三方设备SDK
+    +-- components            : 插件文件夹
+        +-- intoyun_iot       : 第三方设备SDK
     +-- user                  : 用户应用代码
 +-- intoyuniot.ini            : intoyuniot配置文件
 +-- README.md                 : 项目说明文件
